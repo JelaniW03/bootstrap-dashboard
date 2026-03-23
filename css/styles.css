@@ -87,7 +87,7 @@ html {
   font-weight: bold;
 }
 
-/* ---------- TRENDS HEADER---------- */
+/*TRENDS HEADER */
 
 .trends-header {
   display: flex;
@@ -198,14 +198,14 @@ html {
 }
 
 .list-group-item {
-  margin-bottom: 20px; /* adjust gap between list items */
-  border-radius: 8px;  /* optional: rounded edges so gap looks nicer */
+  margin-bottom: 20px; 
+  border-radius: 8px;  /
 }
 
 input[type="checkbox"] {
   width: 15px;
   height: 15px;
-  border-radius: 50%; /* makes it circular */
+  border-radius: 50%; 
   border: 2px solid #9fa2b4;
   appearance: none;    /* removes default styling in most browsers */
   cursor: pointer;
@@ -225,7 +225,7 @@ input[type="checkbox"]:checked::after {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: white; /* small inner circle as “check” */
+  background: white; /* small inner circle as */
 }
 
 @media (max-width: 1200px) {
@@ -263,7 +263,7 @@ input[type="checkbox"]:checked::after {
     text-align: left;
   }
 
-  /* Optional: shrink font sizes for small screens */
+  
   h3 {
     font-size: 28px;
   }
